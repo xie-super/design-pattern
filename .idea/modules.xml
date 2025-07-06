@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/decorator-pattern/decorator-pattern.iml" filepath="$PROJECT_DIR$/decorator-pattern/decorator-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-pattern.iml" filepath="$PROJECT_DIR$/design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/observer-pattern/observer-pattern.iml" filepath="$PROJECT_DIR$/observer-pattern/observer-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/strategy-pattern/strategy-pattern.iml" filepath="$PROJECT_DIR$/strategy-pattern/strategy-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
     </modules>
   </component>
 </project>
